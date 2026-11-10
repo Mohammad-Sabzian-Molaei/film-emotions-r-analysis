@@ -41,6 +41,12 @@ Additional analyses included:
 These findings describe statistical associations and do not independently establish causal effects.
 
 
+## Research Visualization
+
+The following boxplot illustrates the distribution of positive-affect changes across the four film categories.
+
+![Positive-affect change by film](figures/positive_affect_by_film.png)
+
 ## Data Source and Attribution
 
 This project is an independent secondary analysis of the
